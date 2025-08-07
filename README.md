@@ -1,7 +1,7 @@
 <!-- Welcome to Nithiish Vijayadevareddy Kumar's GitHub Profile! (dusky01) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F70000&width=700&lines=Hi+I'm+Nithiish+(dusky01)+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+Innovator;Open+Source+%7C+Hackathon+Champion+%7C+Jury+Panelist;Making+Tech+Accessible+for+All!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F70000&width=700&lines=Hi+I'm+Nithiish+(dusky01)+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist+%7C+Innovator;Open+Source+%7C+Hackathon+Champion+%7C+Making+Tech+Accessible+for+All!+%F0%9F%9A%80" />
 </p>
 
 ---

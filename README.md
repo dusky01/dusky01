@@ -111,16 +111,7 @@
   <!-- Add LinkedIn, Twitter, Website here if available -->
 </p>
 
----
 
-## 🎉 Fun Facts & More
-
-- 👾 Hackathon addict and passionate mentor
-- 🌱 Lifelong learner: AI, tech, design, accessibility
-- 💬 Always open for collaboration—DM me!
-- 💡 Favorite Quote: <b>“Code with passion, innovate with purpose.”</b>
-
----
 
 <!-- Animated Giphy Banner -->
 <p align="center">

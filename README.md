@@ -12,12 +12,7 @@
 
 ## 🌟 About Me
 
-- 👨‍🎓 Master’s in Digital Innovation @ UCD, Dublin, Ireland
-- 🤖 AI Engineer and Data Scientist | Code, Create, Innovate!
-- 🏆 Multiple hackathon winner, jury panelist, event coordinator
-- 🌍 Passionate about digital transformation and global collaboration
-- 🧠 Real-time AI/ML projects, research-driven solutions
-- 💡 Always learning & sharing ideas—let’s connect!
+- 👨‍🎓 N0ob
 
 ---
 
@@ -44,13 +39,11 @@
 
 ---
 
-## 🏅 Achievements & Leadership
+## 🏅 Achievements
 
 - 🥇 Winner at Start-A-Thon (University College Dublin)
 - 🥇 Winner – Hackfest 2022 (PSG Institute of Technology, SAP & Kaar Technologies)
 - 🥇 Winner at HackOverflow V2.0 (Rajalakshmi Engineering College, Chennai)
-- 🧑‍⚖️ Jury Panelist, Hackmageddon
-- 🎤 Event Coordinator, Innoventzz 2022 (AI/ML Dept, Rajalakshmi Engineering College)
 
 ---
 
@@ -102,5 +95,3 @@
 
 ---
 
-<!-- Animated SVG Wave Footer -->
-<img src="https://raw.githubusercontent.com/dusky01/waves/main/wave-footer.svg" width="100%" height="80px" />

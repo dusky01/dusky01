@@ -85,24 +85,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dusky01&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=dusky01&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusky01&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dusky01&theme=onestar&margin-w=10&margin-h=5"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dusky01&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>

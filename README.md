@@ -6,8 +6,7 @@
 
 ---
 
-<!-- Animated SVG Wave Divider -->
-<img src="https://raw.githubusercontent.com/dusky01/waves/main/wave.svg" width="100%" height="80px" />
+
 
 ---
 

@@ -41,6 +41,7 @@
 
 ## 🏅 Achievements
 
+- 🥇 Winner at Tri-continental Championship (Notre Dame University,USA)
 - 🥇 Winner at Start-A-Thon (University College Dublin)
 - 🥇 Winner – Hackfest 2022 (PSG Institute of Technology, SAP & Kaar Technologies)
 - 🥇 Winner at HackOverflow V2.0 (Rajalakshmi Engineering College, Chennai)
